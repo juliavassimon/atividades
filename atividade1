@@ -1,0 +1,14 @@
+1- Machine Learning é uma área da inteligencia artificial que desenvolve algoritmos que podem aprender padrões e fazer previsões a partir de dados.
+
+2- Treinamento: é usado para treinar um modelo de machine learning. É no treinamento que é ajustado repetidamente com exemplos para minizar a diferença entre previsões do modelo e os rotulo reais.
+    Validação: é usado para avaliar o desempenho do modelo durante o treinamento
+    Teste: é usado para avaliar o desempenho final do modelo.
+
+3- Removendo os dados que faltam.
+
+4- Matriz de confusão: é uma ferramenta visual que permite avaliar o desempenho de um modelo. É uma ferramente usada para avaliar a precisão e o desempenho de um modelo preditivo em problemas de classificação. 
+Pode ser usada em avaliação visual, cálculo de métricas de desempenho, ajuste do modelo, comparação entre modelos e avaliação de estratégias de threshold
+
+5- Na área juridica.
+
+
